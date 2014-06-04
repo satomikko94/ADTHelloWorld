@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:layout_alignLeft="@+id/textView1"
         android:layout_below="@+id/textView1"
-        android:text="Button" />
+        android:text="@string/button_name" />
 
     <ToggleButton
         android:id="@+id/toggleButton1"
